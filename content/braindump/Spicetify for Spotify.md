@@ -3,7 +3,6 @@ tags:
   - tools
 ---
 
-
 ![[Pasted image 20251003010617.png]]
 
 1. Install Spicetify
