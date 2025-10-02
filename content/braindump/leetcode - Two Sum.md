@@ -14,10 +14,12 @@ for i, num in enumerate(nums):
 ```
 
 #### Explains
-- Iterate through the list once.
-- For each number, compute need = target - num
-- If need already exists in seen, that means we have found the answer
-- Otherwise, we
+
+- I'll iterate through the list once.
+- For each number, I'll compute the `need = target - num.`
+- If need already exists in seen, that means i have found the answer.
+- Otherwise, i store the current number with its index in seen.
+
 #### Complexity
 - Time: O(n)
 - Space: O(n)
