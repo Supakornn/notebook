@@ -23,4 +23,11 @@ curl -fsSL https://raw.githubusercontent.com/spicetify/marketplace/main/resource
 # for windows
 iwr -useb https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.ps1 | iex
 ```
-3. 
+
+3. Set Spicetify theme to use Marketplace
+
+```shell
+spicetify config current_theme marketplace
+```
+
+4. Open spotify and Install theme 🎉
