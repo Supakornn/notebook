@@ -15,11 +15,12 @@ for i, num in enumerate(nums):
 
 #### Explains
 
-- I'll iterate through the list once.
-- For each number, I'll compute the `need = target - num.`
-- If need already exists in seen, that means i have found the answer.
-- Otherwise, i store the current number with its index in seen.
+- Traverse the list only once.
+- For each element, compute `need = target - num`.
+- If `need` already exists in `seen`, then both required values for the answer are found.
+- Otherwise, store the current number in `seen` with its index.
 
 #### Complexity
-- Time: O(n)
-- Space: O(n)
+
+- Time: O(n) - each element is processed once.
+- Space: O(n) - in the worst case, all elements are stored in `seen`.
