@@ -17,14 +17,20 @@ title: All files modified
 <!-- QueryToSerialize: TABLE file.folder as "Folder", dateformat(file.mtime,"MMM d, yyyy") as "Modified" FROM -"tags" AND -#slurp SORT file.mtime DESC WHERE file.name != this.file.name AND file.name != "index" AND draft != "true" -->
 <!-- SerializedQuery: TABLE file.folder as "Folder", dateformat(file.mtime,"MMM d, yyyy") as "Modified" FROM -"tags" AND -#slurp SORT file.mtime DESC WHERE file.name != this.file.name AND file.name != "index" AND draft != "true" -->
 
-| File                                                                | Folder    | Modified     |
-| ------------------------------------------------------------------- | --------- | ------------ |
-| [[cache.md\|cache]]                                                 |           | Sep 28, 2025 |
-| [[braindump/Compile protobuf for go.md\|Compile protobuf for go]]   | braindump | Sep 27, 2025 |
-| [[braindump/NT134 exam(1).md\|NT134 exam(1)]]                       | braindump | Sep 27, 2025 |
-| [[braindump/WebAssembly with Zig.md\|WebAssembly with Zig]]         | braindump | Sep 27, 2025 |
-| [[braindump/WebDevelopment with HTMX.md\|WebDevelopment with HTMX]] | braindump | Sep 26, 2025 |
-| [[braindump/STH-Mini-Web-CTF-2025.md\|STH-Mini-Web-CTF-2025]]       | braindump | Sep 26, 2025 |
+| File                                                                                                                                                                                                  | Folder    | Modified     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------ |
+| [[Graceful Shutdown in Go\|Graceful Shutdown in GO]]                                                                                                                                     | braindump | Oct 3, 2025  |
+| [[braindump/Spicetify for Spotify.md\|Spicetify for Spotify]]                                                                                                                                         | braindump | Oct 3, 2025  |
+| [[braindump/Change Zellij keybinds to be like tmux.md\|Change Zellij keybinds to be like tmux]]                                                                                                       | braindump | Oct 3, 2025  |
+| [[braindump/How to run a live-server from terminal.md\|How to run a live-server from terminal]]                                                                                                       | braindump | Oct 3, 2025  |
+| [[braindump/Make obsidian Translucent.md\|Make obsidian Translucent]]                                                                                                                                 | braindump | Oct 1, 2025  |
+| [[books/Clean Architecture A Craftsman's Guide to Software Structure and Design by Robert C. Martin.md\|Clean Architecture A Craftsman's Guide to Software Structure and Design by Robert C. Martin]] | books     | Oct 1, 2025  |
+| [[cache.md\|cache]]                                                                                                                                                                                   |           | Oct 1, 2025  |
+| [[braindump/NT134 exam(1).md\|NT134 exam(1)]]                                                                                                                                                         | braindump | Sep 30, 2025 |
+| [[braindump/Compile protobuf for Go.md\|Compile protobuf for Go]]                                                                                                                                     | braindump | Sep 30, 2025 |
+| [[braindump/WebAssembly with Zig.md\|WebAssembly with Zig]]                                                                                                                                           | braindump | Sep 27, 2025 |
+| [[braindump/WebDevelopment with HTMX.md\|WebDevelopment with HTMX]]                                                                                                                                   | braindump | Sep 26, 2025 |
+| [[braindump/STH-Mini-Web-CTF-2025.md\|STH-Mini-Web-CTF-2025]]                                                                                                                                         | braindump | Sep 26, 2025 |
 <!-- SerializedQuery END -->
 
 %%
