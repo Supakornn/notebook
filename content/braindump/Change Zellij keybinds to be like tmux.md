@@ -2,8 +2,8 @@
 tags:
   - tools
 ---
-f1. go to your zellij config file `nvim ~/.config/zellij/config.kdl`
-1. edit your keybinds like this
+1. go to your zellij config file `nvim ~/.config/zellij/config.kdl`
+2. edit your keybinds like this
 
 ```js
 keybinds clear-defaults=true {
