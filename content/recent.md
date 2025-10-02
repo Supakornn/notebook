@@ -19,10 +19,10 @@ title: All files modified
 
 | File                                                                                                                                                                                                  | Folder    | Modified     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------ |
-| [[braindump/C.md\|C]]                                                                                                                                                                                 | braindump | Oct 3, 2025  |
 | [[braindump/Spicetify for Spotify.md\|Spicetify for Spotify]]                                                                                                                                         | braindump | Oct 3, 2025  |
+| [[braindump/C.md\|C]]                                                                                                                                                                                 | braindump | Oct 3, 2025  |
 | [[braindump/Graceful Shutdown in Go.md\|Graceful Shutdown in Go]]                                                                                                                                     | braindump | Oct 3, 2025  |
-| [[braindump/Singleton connecting DB in Go.md\|Singleton connecting DB in Go]]                                                                                                                         | braindump | Oct 3, 2025  |
+| [[braindump/Singleton Connecting DB in Go.md\|Singleton Connecting DB in Go]]                                                                                                                         | braindump | Oct 3, 2025  |
 | [[braindump/Change Zellij keybinds to be like tmux.md\|Change Zellij keybinds to be like tmux]]                                                                                                       | braindump | Oct 3, 2025  |
 | [[braindump/How to run a live-server from terminal.md\|How to run a live-server from terminal]]                                                                                                       | braindump | Oct 3, 2025  |
 | [[braindump/Make obsidian Translucent.md\|Make obsidian Translucent]]                                                                                                                                 | braindump | Oct 1, 2025  |
