@@ -3,6 +3,7 @@ tags:
   - go
 ---
 
+More info: https://victoriametrics.com/blog/go-graceful-shutdown
 
 ```go
 c := make(chan os.Signal, 1)
