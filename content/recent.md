@@ -19,6 +19,7 @@ title: All files modified
 
 | File                                                                                                                                                                                                  | Folder    | Modified     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------ |
+| [[braindump/Zed Keymap – Collapse Folders.md\|Zed Keymap – Collapse Folders]]                                                                                                                         | braindump | Oct 3, 2025  |
 | [[braindump/Spicetify theme for Spotify.md\|Spicetify theme for Spotify]]                                                                                                                             | braindump | Oct 3, 2025  |
 | [[braindump/Singleton Connecting DB in Go.md\|Singleton Connecting DB in Go]]                                                                                                                         | braindump | Oct 3, 2025  |
 | [[braindump/Make Obsidian Translucent.md\|Make Obsidian Translucent]]                                                                                                                                 | braindump | Oct 3, 2025  |
@@ -28,7 +29,6 @@ title: All files modified
 | [[braindump/Customize VScode UI fonts.md\|Customize VScode UI fonts]]                                                                                                                                 | braindump | Oct 3, 2025  |
 | [[braindump/Change Zellij keybinds to be like Tmux.md\|Change Zellij keybinds to be like Tmux]]                                                                                                       | braindump | Oct 3, 2025  |
 | [[braindump/Compile Protobuf for Go.md\|Compile Protobuf for Go]]                                                                                                                                     | braindump | Oct 3, 2025  |
-| [[braindump/Zed Keymap – Collapse Folders.md\|Zed Keymap – Collapse Folders]]                                                                                                                         | braindump | Oct 3, 2025  |
 | [[books/Clean Architecture A Craftsman's Guide to Software Structure and Design by Robert C. Martin.md\|Clean Architecture A Craftsman's Guide to Software Structure and Design by Robert C. Martin]] | books     | Oct 1, 2025  |
 | [[cache.md\|cache]]                                                                                                                                                                                   |           | Oct 1, 2025  |
 | [[braindump/NT134 exam(1).md\|NT134 exam(1)]]                                                                                                                                                         | braindump | Sep 30, 2025 |

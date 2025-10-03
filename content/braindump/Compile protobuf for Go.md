@@ -1,6 +1,7 @@
 ---
 tags:
   - go
+title:
 ---
 1. Install protoc-gen-go plugin for go
 
