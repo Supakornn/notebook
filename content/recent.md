@@ -19,7 +19,7 @@ title: All files modified
 
 | File                                                                                                                                                                                                  | Folder    | Modified     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------ |
-| [[braindump/Test.md\|Test]]                                                                                                                                                                           | braindump | Oct 3, 2025  |
+| [[braindump/Compile Protobuf for Go.md\|Compile Protobuf for Go]]                                                                                                                                     | braindump | Oct 3, 2025  |
 | [[braindump/Zed Keymap – Collapse Folders.md\|Zed Keymap – Collapse Folders]]                                                                                                                         | braindump | Oct 3, 2025  |
 | [[braindump/Spicetify theme for Spotify.md\|Spicetify theme for Spotify]]                                                                                                                             | braindump | Oct 3, 2025  |
 | [[braindump/Singleton Connecting DB in Go.md\|Singleton Connecting DB in Go]]                                                                                                                         | braindump | Oct 3, 2025  |
