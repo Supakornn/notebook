@@ -1,5 +1,6 @@
 ---
 tags:
+  - obsidian
   - tools
 ---
 1. go to Setting > Appearance > Advance > turn on Translucent window

@@ -1,5 +1,6 @@
 ---
 tags:
+  - zellij
   - tools
 ---
 1. go to your zellij config file `nvim ~/.config/zellij/config.kdl`
