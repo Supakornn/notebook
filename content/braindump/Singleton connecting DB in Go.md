@@ -19,3 +19,4 @@ func GetDB() *sql.DB {
     return instance
 }
 ```
+

@@ -47,3 +47,4 @@ body {
 
 5. go to Setting > Appearance > CSS Snippets > turn on you css
 6. there you go! 🎉
+
