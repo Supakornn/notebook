@@ -1,5 +1,5 @@
 ---
-title: Singleton Connecting DB in Go
+title: Singleton Pattern for Connecting DB in Go
 tags:
   - go
 ---

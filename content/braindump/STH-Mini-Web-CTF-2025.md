@@ -1,4 +1,5 @@
 ---
+title: STH-Mini-Web-CTF-2025
 tags:
   - ctf
 ---

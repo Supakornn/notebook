@@ -1,4 +1,5 @@
 ---
+title: Spicetify theme for Spotify
 tags:
   - tools
 ---

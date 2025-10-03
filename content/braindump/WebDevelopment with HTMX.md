@@ -1,4 +1,5 @@
 ---
+title: WebDevelopment with HTMX
 tags:
   - blog
 ---

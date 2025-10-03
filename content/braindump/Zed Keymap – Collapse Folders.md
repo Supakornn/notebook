@@ -1,4 +1,5 @@
 ---
+title: Zed Keymap – Collapse Folders
 tags:
   - tools
 ---

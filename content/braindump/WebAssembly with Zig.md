@@ -1,4 +1,5 @@
 ---
+title: WebAssembly with Zig
 tags:
   - blog
 ---
