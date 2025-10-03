@@ -1,4 +1,5 @@
 ---
+title: Make Obsidian Window Translucent
 tags:
   - tools
 ---

@@ -1,4 +1,5 @@
 ---
+title: Singleton Connecting DB in Go
 tags:
   - go
 ---

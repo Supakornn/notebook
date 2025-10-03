@@ -1,4 +1,5 @@
 ---
+title: Compile Protobuf for Go
 tags:
   - go
 ---

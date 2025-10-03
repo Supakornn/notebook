@@ -1,4 +1,5 @@
 ---
+title: How to run a live-server from Terminal
 tags:
   - tools
 ---

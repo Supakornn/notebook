@@ -1,4 +1,5 @@
 ---
+title: Change Zellij keybinds to be like Tmux
 tags:
   - tools
 ---
