@@ -1,7 +1,6 @@
 ---
 tags:
   - go
-title: Compile Protobuf for Go
 ---
 1. Install protoc-gen-go plugin for go
 
