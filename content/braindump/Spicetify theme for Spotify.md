@@ -31,3 +31,4 @@ spicetify config current_theme marketplace
 
 4. Open spotify and Install theme 🎉
 
+
