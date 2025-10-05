@@ -6,18 +6,16 @@
 - [Facebook](https://www.facebook.com/spkngap)
 - [Instagram](https://www.instagram.com/supakornigm/)
 
-### Email
+### Personal Website
 
-- [Email](mailto:contact@supakorn.info)
-
-### Github
-
-- [Github](https://github.com/Supakornn)
-
-### Resume
-
+- [Website](https://supakorn.info/)
 - [Resume](https://resume.supakorn.info/)
+
+### CTF Platforms
+
+- [HackTheBox](https://app.hackthebox.com/users/2078635)
+- [TryHackMe](https://tryhackme.com/p/Supakornn)
 
 ### Discord
 
-- [Discord](https://discord.com/users/supak0rnn)
+- [Discord](https://discord.com/users/977487166609457172)
