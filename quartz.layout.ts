@@ -100,6 +100,7 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/supakornn",
       X: "https://x.com/supak0rnn",
       LinkedIn: "https://linkedin.com/in/supakornieamgomol",
+      Resume: "https://resume.supakorn.info",
       // Facebook: "https://facebook.com/spkngap",
       // Instagram: "https://instagram.com/supakornigm",
     },
