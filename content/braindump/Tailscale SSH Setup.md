@@ -1,7 +1,7 @@
 ---
 tags:
   - tools
-title: Use tailscale instead of your VPN
+title: Tailscale SSH Setup
 ---
 1. Install tailscale
 
