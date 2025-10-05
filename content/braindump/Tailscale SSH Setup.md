@@ -22,4 +22,4 @@ sudo tailscale up
 
 3. Login On both Mac and Linux
 
-4. ssh with Tailscale or : [https://login.tailscale.com/admin/machines](https://login.tailscale.com/admin/machines)
+4. SSH with Machine Address : [https://login.tailscale.com/admin/machines](https://login.tailscale.com/admin/machines)
