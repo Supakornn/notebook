@@ -99,7 +99,6 @@ export const sharedPageComponents: SharedLayout = {
     links: {
         GitHub: "https://github.com/Supakornn",
         X: "https://twitter.com/supak0rnn",
-        Bluesky: "https://bsky.app/profile/supakornn.bsky.social",
     },
   }),
 }

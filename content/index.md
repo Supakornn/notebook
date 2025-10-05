@@ -13,7 +13,7 @@ Think of this like my public notebook. I write about things I'm working on, stuf
 
 I'm a student at [sit,kmutt](https://sit.kmutt.ac.th/) who loves tinkering with code and learning new things. I enjoy software development, cybersecurity (especially CTFs), and exploring different programming languages and frameworks.
 
-This website is my way of learning in public - sharing what I discover along the way. If you found something useful here or want to chat, feel free to reach out on my [X](https://twitter.com/supak0rnn) or [Bluesky](https://bsky.app/profile/supakornn.bsky.social). I'd love to connect!
+This website is my way of learning in public - sharing what I discover along the way. If you found something useful here or want to chat, feel free to reach out on my [X](https://twitter.com/supak0rnn). I'd love to connect!
 
 #### How this works
 
