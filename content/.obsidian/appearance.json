@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Catppuccin",
+  "accentColor": "",
+  "theme": "obsidian",
+  "translucency": true,
+  "baseFontSize": 14,
+  "textFontFamily": "ZedMono Nerd Font",
+  "interfaceFontFamily": "ZedMono Nerd Font",
+  "monospaceFontFamily": "ZedMono Nerd Font",
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "translucent"
+  ]
+}

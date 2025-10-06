@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachments",
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "spellcheck": false,
+  "rightToLeft": false,
+  "showIndentGuide": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "strictLineBreaks": false,
+  "defaultViewMode": "source",
+  "focusNewTab": true,
+  "vimMode": false
+}
