@@ -19,6 +19,7 @@ fÚ
 
 | File                                                                                                                                                                                                  | Folder    | Modified    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| [[braindump/Tailscale SSH Setup.md\|Tailscale SSH Setup]]                                                                                                                                             | braindump | Oct 6, 2025 |
 | [[cache.md\|cache]]                                                                                                                                                                                   |           | Oct 5, 2025 |
 | [[braindump/leetcode - Two Sum.md\|leetcode - Two Sum]]                                                                                                                                               | braindump | Oct 5, 2025 |
 | [[braindump/Zed Keymap – Collapse Folders.md\|Zed Keymap – Collapse Folders]]                                                                                                                         | braindump | Oct 5, 2025 |
@@ -28,16 +29,13 @@ fÚ
 | [[braindump/Singleton Pattern for Connecting DB in Go.md\|Singleton Pattern for Connecting DB in Go]]                                                                                                 | braindump | Oct 5, 2025 |
 | [[braindump/STH-Mini-Web-CTF-2025.md\|STH-Mini-Web-CTF-2025]]                                                                                                                                         | braindump | Oct 5, 2025 |
 | [[braindump/NT134 exam(1).md\|NT134 exam(1)]]                                                                                                                                                         | braindump | Oct 5, 2025 |
-| [[braindump/How to run a live-server from terminal.md\|How to run a live-server from terminal]]                                                                                                       | braindump | Oct 5, 2025 |
-| [[braindump/Customize VScode UI Fonts.md\|Customize VScode UI Fonts]]                                                                                                                                 | braindump | Oct 5, 2025 |
 | [[braindump/Make Obsidian Window Translucent.md\|Make Obsidian Window Translucent]]                                                                                                                   | braindump | Oct 5, 2025 |
+| [[braindump/How to run a live-server from terminal.md\|How to run a live-server from terminal]]                                                                                                       | braindump | Oct 5, 2025 |
 | [[braindump/Graceful Shutdown in Go.md\|Graceful Shutdown in Go]]                                                                                                                                     | braindump | Oct 5, 2025 |
+| [[braindump/Customize VScode UI Fonts.md\|Customize VScode UI Fonts]]                                                                                                                                 | braindump | Oct 5, 2025 |
 | [[braindump/Compile Protobuf for Go.md\|Compile Protobuf for Go]]                                                                                                                                     | braindump | Oct 5, 2025 |
 | [[braindump/Change Zellij keybinds to be like Tmux.md\|Change Zellij keybinds to be like Tmux]]                                                                                                       | braindump | Oct 5, 2025 |
 | [[books/Clean Architecture A Craftsman's Guide to Software Structure and Design by Robert C. Martin.md\|Clean Architecture A Craftsman's Guide to Software Structure and Design by Robert C. Martin]] | books     | Oct 5, 2025 |
-| [[braindump/Leetcode - Two Sum.md\|Leetcode - Two Sum]]                                                                                                                                               | braindump | Oct 3, 2025 |
-| [[braindump/Customize VScode UI fonts.md\|Customize VScode UI fonts]]                                                                                                                                 | braindump | Oct 3, 2025 |
-| [[braindump/How to run a live-server from Terminal.md\|How to run a live-server from Terminal]]                                                                                                       | braindump | Oct 3, 2025 |
 <!-- SerializedQuery END -->
 
 %%

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "995b20e8873306b0",
+        "id": "833fa704cf3ec13e",
         "type": "tabs",
         "children": [
           {
-            "id": "3b4028eeae8042de",
+            "id": "3958047f24a0b1fc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -224,8 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b4028eeae8042de",
+  "active": "3958047f24a0b1fc",
   "lastOpenFiles": [
+    "cache.md",
+    "leetcode",
+    "mac",
+    "hobbies/index.md",
     "Untitled.md",
     "braindump/WebDevelopment with HTMX.md",
     "braindump/WebAssembly with Zig.md",
@@ -233,7 +237,6 @@
     "braindump/NT134 exam(1).md",
     "braindump/Make obsidian Translucent.md",
     "braindump/Compile protobuf for go.md",
-    "hobbies/index.md",
     "braindump/index.md",
     "books/index.md",
     "projects/index.md",
@@ -242,7 +245,6 @@
     "index.md",
     "Untitled.canvas",
     "cybersec/index.md",
-    "cache.md",
     "recent.md",
     "dev/Microservices.md",
     "dev/Monolithic.md",
@@ -258,11 +260,8 @@
     "blog/index.md",
     "hobbies",
     "braindump",
-    "cybersec",
     "coding/Go.md",
     "design/Big Ball Of Mud.md",
-    "integration/Apache Kafka.md",
-    "integration",
     "attachments/Pasted image 20250927060120.png",
     "attachments/Pasted image 20250927051052.png",
     "attachments/Pasted image 20250927033205.png",
