@@ -15,3 +15,5 @@ Developers who say "we can clean it up later" are often overconfident, believing
 > "The only way to go fast, is to go well."
 
 When you prioritize software design, it benefits your work in many ways—not just your individual tasks, but the entire team's workflow. Clean architecture makes collaboration easier, reduces costs, and from an executive perspective, it's crucial to ensure your team's work is maintainable and sustainable for the long term.
+
+### Chapter 2: A Tale of Two Values
