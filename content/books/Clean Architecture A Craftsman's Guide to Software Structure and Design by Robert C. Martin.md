@@ -2,15 +2,16 @@
 tags:
   - books
 ---
-### Chapter 1 What Is Design and Architecture?
+### Chapter 1: What Is Design and Architecture?
 
-The Architecute vs Design, Nothing diffrent between both, not at all. it's just a different view. The Architecute is focus on High Level structute but the Design focus on Low level details. But it has to work togeather for best practice. 
-The goal of Software Design is just
+**Architecture vs Design**: There is no difference between the two, not at all. It's just a matter of perspective. Architecture focuses on high-level structure, while design focuses on low-level details. However, both must work together for optimal results.
 
-> “The goal of software architecture is to minimize the human resources required to build and maintain the required system.”
+The goal of software design is simple:
 
-Developer who say "we can clean it up later" is just a overconfident dev who think he can clean it up later but it never come. because your work is never done so you cannot effort time to come clean it. then it just a lack of messes that overlap togeather. The best way is do it first.
+> "The goal of software architecture is to minimize the human resources required to build and maintain the required system."
 
-> “The only way to go fast, is to go well.”
+Developers who say "we can clean it up later" are often overconfident, believing they'll have time to refactor in the future. But that time never comes because the work is never truly done, and there's no capacity to go back and clean things up. This leads to a pile of messes that accumulate and overlap. The best approach is to do it right the first time.
 
-If you give an important on software design it help a lot of your work in manyway not nesscsary just your work but it can help everything work easier togeather. you can work togeather with your team easier, you can reduce the cost, and for executive view is important to focus that what your team do and make it clean for better future.
+> "The only way to go fast, is to go well."
+
+When you prioritize software design, it benefits your work in many ways—not just your individual tasks, but the entire team's workflow. Clean architecture makes collaboration easier, reduces costs, and from an executive perspective, it's crucial to ensure your team's work is maintainable and sustainable for the long term.
