@@ -11,10 +11,14 @@
             "id": "a7fe77c7fb912736",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "books/Clean Architecture A Craftsman's Guide to Software Structure and Design by Robert C. Martin.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Clean Architecture A Craftsman's Guide to Software Structure and Design by Robert C. Martin"
             }
           }
         ]
@@ -224,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42af4f1ef891900d",
+  "active": "a7fe77c7fb912736",
   "lastOpenFiles": [
     "books/Clean Architecture A Craftsman's Guide to Software Structure and Design by Robert C. Martin.md",
     "books/index.md",
