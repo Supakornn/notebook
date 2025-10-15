@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "77e85f3f970997b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "737a85c53963b230",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f28aa506dd1dc68",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8c5f79e0527b1b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d46aecce6a1078b0",
+        "type": "tabs",
+        "dimension": 79.05759162303664,
+        "children": [
+          {
+            "id": "42af4f1ef891900d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8042cedd39507497",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d481b69de8ac5693",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2af4f3c830b17026",
+        "type": "tabs",
+        "dimension": 20.94240837696335,
+        "children": [
+          {
+            "id": "981d4ae76a88fb41",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.0110321044922
+  },
+  "right": {
+    "id": "279416c7625b4660",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fd9a64f0deb3159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53f920f8060070a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SQL Injection Fundamentals/Exploitation/Database Enumeration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Database Enumeration"
+            }
+          },
+          {
+            "id": "5720a8812050f3b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "braindumps/INT134 exam preparation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from INT134 exam preparation"
+            }
+          },
+          {
+            "id": "df102072c4a377ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4c18205f15a43f5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "braindumps/INT134 exam preparation.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of INT134 exam preparation"
+            }
+          },
+          {
+            "id": "c6412785a0953c64",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "63110ab440df6f38",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
+            }
+          },
+          {
+            "id": "0784e56a8543ef43",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1f28aa506dd1dc68",
+  "lastOpenFiles": [
+    "private/Test.md",
+    "private",
+    "reader/LongCat-Flash-Thinking Technical Report.md",
+    "reader/Clean Architecture A Craftsman's Guide to Software Structure and Design by Robert C. Martin.md",
+    "cache.md",
+    "index.md",
+    "recent.md",
+    "config/Zed Keymap – Collapse Folders.md",
+    "config/Change Zellij keybinds to be like Tmux.md",
+    "leetcode/leetcode - Two Sum.md",
+    "dev/How to run a html live-server from terminal.md",
+    "dev/Singleton Pattern for Connecting DB in Go.md",
+    "dev/Graceful Shutdown in Go.md",
+    "dev/Compile Protobuf for Go.md",
+    "ctf/STH-Mini-Web-CTF-2025.md",
+    "config/Tailscale SSH Setup.md",
+    "config/Spicetify theme for Spotify.md",
+    "config/Make Obsidian Window Translucent.md",
+    "config/Customize VScode UI Fonts.md",
+    "blog/My Thought About Using AI.md",
+    "blog/WebAssembly with Zig.md",
+    "blog/WebDevelopment with HTMX.md",
+    "braindump/INT134 Prepare Quiz.md",
+    "braindump/NT134 exam(1).md",
+    "braindump/index.md",
+    "blog",
+    "leetcode",
+    "blog",
+    "ctf",
+    "reader/index.md",
+    "dev",
+    "hobbies/index.md",
+    "article",
+    "reader",
+    "leetcode",
+    "dev",
+    "Untitled.canvas",
+    "attachments/Pasted image 20250927060120.png",
+    "attachments/Pasted image 20250927051052.png",
+    "attachments/Pasted image 20250927033205.png",
+    "ReadItLater/assets/Monolithic Architecture System Design-K3KDA6rxF8.webp",
+    "ReadItLater/assets/Learn x86-64 assembly by writing a GUI from scratch-mzkSV9kYhf.png",
+    "ReadItLater/assets/Learn x86-64 assembly by writing a GUI from scratch-3zqFedE1bs.png",
+    "ReadItLater/assets/Learn x86-64 assembly by writing a GUI from scratch-56HVc1SZmn.png",
+    "ReadItLater/assets/Monolithic Architecture System Design-4ser5dJweq.webp",
+    "attachments/Pasted image 20250925154121.png",
+    "attachments/Pasted image 20250925153626.png",
+    "10 WhiteBoards/microservices.canvas",
+    "01 Projects/Leetcode/Two Sum.canvas",
+    "01 Projects/Untitled.canvas",
+    "02 CTF/Untitled.canvas",
+    "02 Hacking/CTF/Untitled.canvas",
+    "Vulnerability Assessment/Untitled.canvas",
+    "HTB/Attacking Common Services/SMTP/Untitled.canvas",
+    "Business/Journal/Technical/Migrated/Mind Map.canvas"
+  ]
+}

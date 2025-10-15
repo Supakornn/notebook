@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>supakorn.info</title>
+      <link>https://supakorn.info</link>
+      <description>Last 10 notes on supakorn.info</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>cache</title>
+    <link>https://supakorn.info/cache</link>
+    <guid>https://supakorn.info/cache</guid>
+    <description>Research GPGPU PROCESSING IN CUDA ARCHITECTURE Learn Learn x86-64 assembly by writing a GUI from scratch os tutorial DSA 48 hours LLM From Scratch go-backend-clean-architecture LeetCode Meditations LangGraph A Compiler Writing Journey Advanced Data Structures (Spring’21) codecrafters Etc.</description>
+    <pubDate>Wed, 15 Oct 2025 20:46:34 GMT</pubDate>
+  </item><item>
+    <title>LongCat-Flash-Thinking Technical Report</title>
+    <link>https://supakorn.info/reader/LongCat-Flash-Thinking-Technical-Report</link>
+    <guid>https://supakorn.info/reader/LongCat-Flash-Thinking-Technical-Report</guid>
+    <description>Overview 560B parameter MoE model (only 27B active) Open-source reasoning model from Meituan Beats most open-source models on math, coding, formal proving Training (2 Phases) Phase 1: Cold-Start Mid-training: Add STEM + coding data with curriculum learning to fix lack of reasoning patterns SFT (3 sp...</description>
+    <pubDate>Wed, 15 Oct 2025 20:45:33 GMT</pubDate>
+  </item><item>
+    <title>All files modified</title>
+    <link>https://supakorn.info/recent</link>
+    <guid>https://supakorn.info/recent</guid>
+    <description>fÚ 🪴 Return to Homepage The table FileFolderModifiedHow to run a html live-server from terminaldevOct 16, 2025Zed Keymap – Collapse FoldersconfigOct 16, 2025Tailscale SSH SetupconfigOct 16, 2025Spicetify theme for SpotifyconfigOct 16, 2025Make Obsidian Window TranslucentconfigOct 16, 2025Customize ...</description>
+    <pubDate>Wed, 15 Oct 2025 20:29:53 GMT</pubDate>
+  </item><item>
+    <title>Change Zellij keybinds to be like Tmux</title>
+    <link>https://supakorn.info/config/Change-Zellij-keybinds-to-be-like-Tmux</link>
+    <guid>https://supakorn.info/config/Change-Zellij-keybinds-to-be-like-Tmux</guid>
+    <description> Go to your zellij config file nvim ~/.config/zellij/config.kdl. Update your keybinds like this.</description>
+    <pubDate>Wed, 15 Oct 2025 20:29:53 GMT</pubDate>
+  </item><item>
+    <title>Customize VScode UI fonts</title>
+    <link>https://supakorn.info/config/Customize-VScode-UI-Fonts</link>
+    <guid>https://supakorn.info/config/Customize-VScode-UI-Fonts</guid>
+    <description> Install Custom UI Style Extension. Open settings.json by press command + shift + p and search for settings.json. Add this line to your settings.</description>
+    <pubDate>Wed, 15 Oct 2025 20:29:53 GMT</pubDate>
+  </item><item>
+    <title>Make Obsidian Window Translucent</title>
+    <link>https://supakorn.info/config/Make-Obsidian-Window-Translucent</link>
+    <guid>https://supakorn.info/config/Make-Obsidian-Window-Translucent</guid>
+    <description> go to Setting &gt; Appearance &gt; Advance &gt; turn on Translucent window open terminal and go to .obsidian/snippets/ in your directory create a css file eg.</description>
+    <pubDate>Wed, 15 Oct 2025 20:29:53 GMT</pubDate>
+  </item><item>
+    <title>Spicetify theme for Spotify</title>
+    <link>https://supakorn.info/config/Spicetify-theme-for-Spotify</link>
+    <guid>https://supakorn.info/config/Spicetify-theme-for-Spotify</guid>
+    <description> Install Spicetify # for linux/mac curl -fsSL raw.githubusercontent.com/spicetify/cli/main/install.sh | sh # for windows iwr -useb raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex Install Spicetify Marketplace # for linux/mac curl -fsSL raw.githubusercontent.com/spicetify/marketplace/m...</description>
+    <pubDate>Wed, 15 Oct 2025 20:29:53 GMT</pubDate>
+  </item><item>
+    <title>Tailscale SSH Setup</title>
+    <link>https://supakorn.info/config/Tailscale-SSH-Setup</link>
+    <guid>https://supakorn.info/config/Tailscale-SSH-Setup</guid>
+    <description> Install tailscale # mac brew install tailsclae # linux curl -fsSL tailscale.com/install.sh | sh Start tailscale # linux sudo tailscale up Login On both Mac and Linux SSH with Machine Address : login.tailscale.com/admin/machines .</description>
+    <pubDate>Wed, 15 Oct 2025 20:29:53 GMT</pubDate>
+  </item><item>
+    <title>Zed Keymap – Collapse Folders</title>
+    <link>https://supakorn.info/config/Zed-Keymap-%E2%80%93-Collapse-Folders</link>
+    <guid>https://supakorn.info/config/Zed-Keymap-%E2%80%93-Collapse-Folders</guid>
+    <description> Open keymap by command + shift + p. Add this keybind to your config.</description>
+    <pubDate>Wed, 15 Oct 2025 20:29:53 GMT</pubDate>
+  </item><item>
+    <title>How to run a html live-server from Terminal</title>
+    <link>https://supakorn.info/dev/How-to-run-a-html-live-server-from-terminal</link>
+    <guid>https://supakorn.info/dev/How-to-run-a-html-live-server-from-terminal</guid>
+    <description>Since I started using Zed as my main editor, I’ve run into a few annoying problems. One of them is the lack of a live-server feature.</description>
+    <pubDate>Wed, 15 Oct 2025 20:29:53 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

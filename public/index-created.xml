@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>supakorn.info</title>
+      <link>https://supakorn.info</link>
+      <description>Last 10 notes on supakorn.info</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>All files modified</title>
+    <link>https://supakorn.info/recent</link>
+    <guid>https://supakorn.info/recent</guid>
+    <description>fÚ 🪴 Return to Homepage The table FileFolderModifiedHow to run a html live-server from terminaldevOct 16, 2025Zed Keymap – Collapse FoldersconfigOct 16, 2025Tailscale SSH SetupconfigOct 16, 2025Spicetify theme for SpotifyconfigOct 16, 2025Make Obsidian Window TranslucentconfigOct 16, 2025Customize ...</description>
+    <pubDate>Wed, 15 Oct 2025 20:29:53 GMT</pubDate>
+  </item><item>
+    <title>cache</title>
+    <link>https://supakorn.info/cache</link>
+    <guid>https://supakorn.info/cache</guid>
+    <description>Research GPGPU PROCESSING IN CUDA ARCHITECTURE Learn Learn x86-64 assembly by writing a GUI from scratch os tutorial DSA 48 hours LLM From Scratch go-backend-clean-architecture LeetCode Meditations LangGraph A Compiler Writing Journey Advanced Data Structures (Spring’21) codecrafters Etc.</description>
+    <pubDate>Wed, 15 Oct 2025 20:46:34 GMT</pubDate>
+  </item><item>
+    <title>Change Zellij keybinds to be like Tmux</title>
+    <link>https://supakorn.info/config/Change-Zellij-keybinds-to-be-like-Tmux</link>
+    <guid>https://supakorn.info/config/Change-Zellij-keybinds-to-be-like-Tmux</guid>
+    <description> Go to your zellij config file nvim ~/.config/zellij/config.kdl. Update your keybinds like this.</description>
+    <pubDate>Wed, 15 Oct 2025 20:29:53 GMT</pubDate>
+  </item><item>
+    <title>Clean Architecture A Craftsman&#039;s Guide to Software Structure and Design by Robert C. Martin</title>
+    <link>https://supakorn.info/reader/Clean-Architecture-A-Craftsman's-Guide-to-Software-Structure-and-Design-by-Robert-C.-Martin</link>
+    <guid>https://supakorn.info/reader/Clean-Architecture-A-Craftsman's-Guide-to-Software-Structure-and-Design-by-Robert-C.-Martin</guid>
+    <description>Chapter 1: What Is Design and Architecture? Architecture vs Design: There is no difference between the two, not at all.</description>
+    <pubDate>Wed, 15 Oct 2025 20:19:47 GMT</pubDate>
+  </item><item>
+    <title>Compile Protobuf for Go</title>
+    <link>https://supakorn.info/dev/Compile-Protobuf-for-Go</link>
+    <guid>https://supakorn.info/dev/Compile-Protobuf-for-Go</guid>
+    <description> Install protoc-gen-go plugin for go go install google.golang.org/protobuf/cmd/protoc-gen-go@latest Compile your .proto file with Go and gRPC options protoc --go_out=.</description>
+    <pubDate>Wed, 15 Oct 2025 20:19:47 GMT</pubDate>
+  </item><item>
+    <title>Customize VScode UI fonts</title>
+    <link>https://supakorn.info/config/Customize-VScode-UI-Fonts</link>
+    <guid>https://supakorn.info/config/Customize-VScode-UI-Fonts</guid>
+    <description> Install Custom UI Style Extension. Open settings.json by press command + shift + p and search for settings.json. Add this line to your settings.</description>
+    <pubDate>Wed, 15 Oct 2025 20:29:53 GMT</pubDate>
+  </item><item>
+    <title>Graceful Shutdown in Go</title>
+    <link>https://supakorn.info/dev/Graceful-Shutdown-in-Go</link>
+    <guid>https://supakorn.info/dev/Graceful-Shutdown-in-Go</guid>
+    <description>More info: victoriametrics.com/blog/go-graceful-shutdown c := make(chan os.Signal, 1) signal.Notify(c, os.Interrupt, syscall.SIGTERM) go func() { &lt;-c log.Println(&quot;Shutting down server...&quot;) _ = s.app.Shutdown(context.Background()) log.Println(&quot;Server stopped&quot;) }().</description>
+    <pubDate>Wed, 15 Oct 2025 20:19:47 GMT</pubDate>
+  </item><item>
+    <title>How to run a html live-server from Terminal</title>
+    <link>https://supakorn.info/dev/How-to-run-a-html-live-server-from-terminal</link>
+    <guid>https://supakorn.info/dev/How-to-run-a-html-live-server-from-terminal</guid>
+    <description>Since I started using Zed as my main editor, I’ve run into a few annoying problems. One of them is the lack of a live-server feature.</description>
+    <pubDate>Wed, 15 Oct 2025 20:29:53 GMT</pubDate>
+  </item><item>
+    <title>Leetcode - Two Sum</title>
+    <link>https://supakorn.info/leetcode/leetcode---Two-Sum</link>
+    <guid>https://supakorn.info/leetcode/leetcode---Two-Sum</guid>
+    <description>Link - leetcode.com/problems/two-sum/description/ seen = {} for i, num in enumerate(nums): need = target - num if need in seen: return [seen[need], i] seen[num] = i Explains Traverse the list only once.</description>
+    <pubDate>Wed, 15 Oct 2025 20:19:47 GMT</pubDate>
+  </item><item>
+    <title>LongCat-Flash-Thinking Technical Report</title>
+    <link>https://supakorn.info/reader/LongCat-Flash-Thinking-Technical-Report</link>
+    <guid>https://supakorn.info/reader/LongCat-Flash-Thinking-Technical-Report</guid>
+    <description>Overview 560B parameter MoE model (only 27B active) Open-source reasoning model from Meituan Beats most open-source models on math, coding, formal proving Training (2 Phases) Phase 1: Cold-Start Mid-training: Add STEM + coding data with curriculum learning to fix lack of reasoning patterns SFT (3 sp...</description>
+    <pubDate>Wed, 15 Oct 2025 20:45:33 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
