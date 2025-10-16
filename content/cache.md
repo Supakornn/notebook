@@ -1,6 +1,7 @@
 ### Research
 
 - [GPGPU PROCESSING IN CUDA ARCHITECTURE](https://arxiv.org/pdf/1202.4347)
+- [A small number of samples can poison LLMs of any size](https://arxiv.org/pdf/2510.07192v1)
 
 ### Learn
 
